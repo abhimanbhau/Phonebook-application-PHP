@@ -70,7 +70,8 @@ Download the free version of MAMP(macOS): [https://www.mamp.info/en/downloads/](
 ### Setup MySQL database
 - Create database inside MySQL named 'dbproject'.
 - Execute the 'Create.SQL' file on the previously created database.
-- Import the CSV file (contact.csv) using MySQL workbench.
+- Import the CSV file (Sample Contacts data.csv) using MySQL workbench.
+>  You can either use the provided contacts list which is completely machine generated list. You can also choose to generate your own list of fake data using the online tool [Mockaroo](https://www.mockaroo.com)
 
 ### PHP Back-end setup
 - Copy all the PHP files and index.html file from the root of the project into the htdocs folder of Apache installation. [Learn more](https://home.ubalt.edu/abento/linux/apache/apache-windows.shtml)
